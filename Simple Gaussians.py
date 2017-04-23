@@ -3,7 +3,6 @@ from __future__ import print_function
 import numpy as np
 from PIL import Image
 
-
 #Initialize the matrix- Size (100,100)
 
 size = 1000
